@@ -1,3 +1,10 @@
+HashChat<br/>
+Built a messaging webapp with multiple group chat facilities.<br/> 
+implemented login using Google authentication.<br/>
+Technologies used:reactjs,redux,Material UI,styled components,firebase.<br/>
+LINK<br/>
+https://hashchat-24f4e.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
