@@ -1,4 +1,4 @@
-HashChat<br/>
+#HashChat<br/>
 Built a messaging webapp with multiple group chat facilities.<br/> 
 implemented login using Google authentication.<br/>
 Technologies used:reactjs,redux,Material UI,styled components,firebase.<br/>
