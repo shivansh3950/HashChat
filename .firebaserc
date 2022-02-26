@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "hashchat-24f4e",
+    "development": "hashchat-24f4e"
+  },
+  "targets": {}
+}
